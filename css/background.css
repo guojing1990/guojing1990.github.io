@@ -1,11 +1,11 @@
 /*********************设置背景************************************/
 .item-1 {
-    background: url("../images/bg7.jpg") no-repeat center center;
+    background: url("../images/bg06.jpg") no-repeat center center;
     -webkit-background-size: cover;
     background-size:cover ;
 }
 .item-2 {
-    background: url("../images/base.jpg") no-repeat center center;
+    background: url("../images/b05.jpg") no-repeat center center;
     -webkit-background-size: cover;
     background-size:cover;
 }
@@ -15,7 +15,9 @@
     background-size:cover;
 }
 .item-4 {
-    background: rgba(255, 255, 255, .1);!important;
+    background: url("../images/b04.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
 }
 .guns {
     opacity: 1;

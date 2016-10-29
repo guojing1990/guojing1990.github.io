@@ -15,7 +15,7 @@
     margin-bottom: 20px;
     -webkit-animation: flip 1s linear ;
     animation: flip 1s linear ;
-    color: rgba(16, 16, 16, 0.98);
+    color: rgba(249, 113, 48, 0.98);
     text-shadow: 1px 1px 1px red;
 }
 .item-4 .experience {
@@ -32,7 +32,7 @@
 }
 
 #item-4 .thumbnail .caption {
-    color: #000000;
+    color: #ddd;
     padding: 9px;
     font-family: inherit;
 }
@@ -80,17 +80,17 @@
     background: #007fd5;
     position: relative;
     overflow: hidden;
-    -webkit-animation: sky_background 50s ease-out infinite;
+   /* -webkit-animation: sky_background 50s ease-out infinite;
     -moz-animation: sky_background 50s ease-out infinite;
     -o-animation: sky_background 50s ease-out infinite;
     animation: sky_background 50s ease-out infinite;
     -webkit-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);*/
 }
 
-.clouds_one {
+/*.clouds_one {
     background: url("../images/page-4/cloud_one.png");
     position: absolute;
     left: 0;
@@ -139,7 +139,7 @@
     -ms-transform: translate3d(0, 0, 0);
     -o-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-}
+}*/
 
 @-webkit-keyframes sky_background {
     0% {

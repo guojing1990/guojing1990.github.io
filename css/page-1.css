@@ -5,8 +5,8 @@
     text-align: center;
     font-size: 50px;
     font-weight: 700;
-    color: #0A9676;
-    text-shadow: 5px -2px 8px #151414;
+    color: #e615df;
+    text-shadow: 5px -2px 8px #1f0c42;
 }
 .item-1 .word>span.hidden-xs,
 .item-1 .word>span.col-xs-12{
@@ -16,6 +16,7 @@
 
 .item-1 .motto {
     font-size: 25px;
+    top:20px;
 }
 .item-1 .next-page {
     position: absolute;

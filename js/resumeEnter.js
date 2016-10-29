@@ -58,7 +58,7 @@ $(function () {
 
         $('item-4').css('background', 'rgba(255, 255, 255, .1)');
         //侧边导航事件
-        var Tooltips = ['个人简历', '基本资料', '专业技能', '工作经历', '项目经验', '自我评价'];
+        var Tooltips = ['个人简历', '基本资料', '专业技能', '工作经验', '项目案例', '自我评价'];
         $("#fp-nav ul li").each(function (index) {
           this.dataset['toggle'] = 'tooltip';
           this.dataset['placement'] = 'left';

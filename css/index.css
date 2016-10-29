@@ -34,7 +34,7 @@
     transition: 1s all ease;
 }
 .navbar.blue {
-    background: rgba(71, 166, 173,1);
+    background: rgba(31, 0, 84,1);
 }
 .navbar.black {
     background: rgba(51, 51, 51,.7);
@@ -44,7 +44,7 @@
 .resume .navbar-brand:visited,
 .resume .navbar-brand:hover
 {
-    color: #A7E615;
+    color: #fff;
     font-size: 18px;
 }
 .resume .navbar-right li a,
@@ -62,7 +62,7 @@
 .navbar-default .navbar-nav>.active>a:visited,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #ffffff;
-    background-color:#0F698A ;
+    background-color:#5c3181 ;
     text-decoration: none;
 }
 .navbar-default .navbar-toggle {
@@ -74,13 +74,19 @@
 .navbar-default .navbar-toggle:hover {
     background-color: #122b40;
 }
+.navbar-default .navbar-nav > li > a,.navbar-default .navbar-nav > li > a:hover {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+}
 /********************导航条End***************************************/
 
 /********************右侧导航栏*************************************/
 
-#fp-nav{
+/*#fp-nav{
     top: 80%;
-}
+}*/
 
 #fp-nav ul li{
     vertical-align: middle;
