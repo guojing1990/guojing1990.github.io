@@ -106,7 +106,9 @@
 #fp-nav span {
     display: none;
 }
-
+.portfolio-item a:hover{
+    color:#fff;
+}
 
 /****************************右侧导航栏End******************************/
 
